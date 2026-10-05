@@ -50,7 +50,7 @@ actually say out loud.
 
 This free deck covers the core technical concepts. A **Pro version** adds
 STAR-formatted, experience-based project/behavioral questions and ongoing
-content updates — [link here once published].
+content updates and if you want support — https://esh246.gumroad.com/l/101prep-pro.
 
 ## Contributing
 
