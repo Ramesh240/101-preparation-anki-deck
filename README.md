@@ -41,7 +41,9 @@ actually say out loud.
 
 ## Installation
 
-1. Download `101_Preparation.apkg` from this repo
+1. Download `101_Preparation.apkg` from this repo 
+or 
+from AnkiWeb: https://ankiweb.net/shared/info/101042386
 2. Open Anki (desktop, AnkiDroid, or AnkiMobile)
 3. **File → Import** (or just open the `.apkg` file directly on mobile)
 4. The 13 subdecks will be created automatically under `101 Preparation`
@@ -50,7 +52,7 @@ actually say out loud.
 
 This free deck covers the core technical concepts. A **Pro version** adds
 STAR-formatted, experience-based project/behavioral questions and ongoing
-content updates and if you want support — https://esh246.gumroad.com/l/101prep-pro.
+content updates (My complete Anki setup complete css, front+back css) and if you want support — https://esh246.gumroad.com/l/101prep-pro.
 
 ## Contributing
 
