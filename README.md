@@ -1,3 +1,4 @@
+
 # 101 Preparation — Full-Stack .NET + React + Azure Interview Prep (Anki Deck)
 
 A mobile-optimized Anki flashcard deck for interview prep covering the
@@ -50,7 +51,8 @@ from AnkiWeb: https://ankiweb.net/shared/info/101042386
 
 ## A more complete version
 
-This free deck covers the core technical concepts. A **Pro version** adds
+This free deck covers the core technical concepts. If this deck helped you support here: https://buymeacoffee.com/ramesh.dev
+A **Pro version** adds
 STAR-formatted, experience-based project/behavioral questions and ongoing
 content updates (My complete Anki setup complete css, front+back css) and if you want support — https://esh246.gumroad.com/l/101prep-pro.
 
