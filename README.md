@@ -49,12 +49,16 @@ from AnkiWeb: https://ankiweb.net/shared/info/101042386
 3. **File → Import** (or just open the `.apkg` file directly on mobile)
 4. The 13 subdecks will be created automatically under `101 Preparation`
 
-## A more complete version
+## Support this project
 
-This free deck covers the core technical concepts. If this deck helped you support here: https://buymeacoffee.com/ramesh.dev
-A **Pro version** adds
-STAR-formatted, experience-based project/behavioral questions and ongoing
-content updates (My complete Anki setup complete css, front+back css) and if you want support — https://esh246.gumroad.com/l/101prep-pro.
+If this deck helped you, feel free to leave a tip: [Buy Me a Coffee](https://buymeacoffee.com/ramesh.dev)
+
+## Pro version
+
+Want STAR-formatted, experience-based project/behavioral questions — plus
+the full mobile card styling (Front/Back templates + CSS) used to build
+this deck? Get the Pro version (₹99, one-time) on
+[Gumroad](https://esh246.gumroad.com/l/101prep-pro).
 
 ## Contributing
 
